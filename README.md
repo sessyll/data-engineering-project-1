@@ -47,7 +47,7 @@ To spin up this Jupyter Notebook workspace on your local machine, follow these t
 Clone this repository to your target directory:
 ```bash
 git clone https://github.com
-cd YOUR_REPOSITORY_NAME
+cd data-engineering-project-1
 ```
 
 ### 2. Dependency Management
