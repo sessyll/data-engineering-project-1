@@ -6,7 +6,7 @@
 [![Framework](https://shields.io)](https://pydata.org)
 
 ## 📌 Project Overview
-This repository contains the official final graduation assignment (**eindopdracht**) completed for the **Junior Data Engineering Certification Program** at **Bit Academy**. 
+This repository contains the official final graduation assignment (**eindopdracht**) completed for the **Junior Data Engineering Certification Program** at **Bit Academy**. Project Metadata: Developed in June 2022 as part of the graduation program. Uploaded to GitHub in 2026 for portfolio curation.
 
 The core architecture of this project is a programmatic ETL (Extract, Transform, Load) pipeline that establishes a live connection with the **Central Bureau for Statistics (CBS)** in the Netherlands. It bypasses the need for local static files by programmatically ingesting, parsing, and cleaning socio-economic data points, followed by exploratory data analysis (EDA) and advanced statistical visualizations.
 
