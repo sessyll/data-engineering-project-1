@@ -13,7 +13,7 @@ The project retrieves performing-arts data from CBS StatLine through the `cbsoda
 ---
 
 ## 🎹 Professional Context & Background
-As a **classical pianist (MMus)** with a deep-rooted interest in analytical research, I built this end-to-end data pipeline to bridge the gap between complex statistical databases and domain-specific insights. 
+As a **classical pianist (MMus)** with a deep-rooted interest in analytical research, I built this end-to-end analysis workflow to bridge the gap between complex statistical databases and domain-specific insights. 
 
 This project allowed me to practise retrieving public data programmatically and using pandas, Matplotlib and Seaborn to explore and communicate the results.
 
@@ -21,7 +21,7 @@ This project allowed me to practise retrieving public data programmatically and 
 
 ## 🛠️ Tools and Techniques
 
-The workspace relies on a lightweight, modular infrastructure optimized for data analytics:
+The notebook uses the following tools and techniques:
 
 - **Data retrieval:** `cbsodata` for retrieving CBS StatLine data.
 - **Data preparation:** `pandas` for converting the retrieved records into a DataFrame, renaming columns, removing duplicate IDs, filtering rows and selecting relevant columns.
